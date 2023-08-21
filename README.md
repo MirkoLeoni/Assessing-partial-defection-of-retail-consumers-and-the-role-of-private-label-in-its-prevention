@@ -3,4 +3,4 @@ Developed an advanced machine learning model applied to customer data of a promi
 
 Innovative model build on the concept of Hidden Markov Chain.
 
-THE WORKING DATABASE IS SUBJECTED TO CONFIDENTIALITY AGREEMENT.
+WORKING DATABASE SUBJECTED TO CONFIDENTIALITY AGREEMENT.
